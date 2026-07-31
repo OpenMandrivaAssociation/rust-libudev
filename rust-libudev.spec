@@ -5,8 +5,8 @@
 %global crate libudev
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        9%{?dist}
+Version:        0.3.0
+Release:        1%{?dist}
 Summary:        Rust wrapper for libudev
 
 # Upstream license specification: MIT
